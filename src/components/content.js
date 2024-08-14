@@ -13,7 +13,7 @@ function Content(){
             </tr>
             <tr>
                 <td>Praveen</td>
-                <td>102</td>
+                <td>102</td>4
                 <td>IT</td>
                 <td>Hicet</td>
             </tr>
