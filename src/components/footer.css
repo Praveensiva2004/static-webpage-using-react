@@ -1,0 +1,39 @@
+.head1 {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px;
+    background-color:greenyellow;
+   
+
+  }
+  
+  .head1 h2 {
+    
+    color:red;
+    padding:10px;
+    padding-left:30px;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+  
+  .head1 ul {
+    list-style-type: none;
+    
+    display: flex;
+  }
+  
+  .head1 li {
+    margin: 0 15px;
+    padding:10px;
+    text-decoration: underline;
+    
+  }
+  
+  .head1 a {
+    text-decoration: none;
+    color:white;
+  }
+  
+  .head1 a:hover {
+    color: blueviolet;
+  }
